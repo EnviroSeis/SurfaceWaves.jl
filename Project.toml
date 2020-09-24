@@ -1,0 +1,13 @@
+name = "SurfaceWaves"
+uuid = "59cabdb0-5738-4924-bfc8-088ca6a67f09"
+authors = ["Dylan Mikesell", "Boise State University"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
